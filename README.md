@@ -12,7 +12,6 @@ This system uses Arduino with connected sensors and displays the data through a 
 - Data export as CSV.
 - Mobile responsive UI.
 - Hardware integration with Arduino.
-- Optional SMS alerts via **Twilio**.
 
 ---
 
